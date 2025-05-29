@@ -133,6 +133,7 @@ header img {
   align-items: flex-start;
   padding: 1rem;
   flex-wrap: wrap;
+  padding-top: 0;
 }
 
 .flip-card {
